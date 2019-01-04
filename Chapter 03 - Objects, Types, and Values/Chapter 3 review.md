@@ -1,6 +1,4 @@
----
-title: Chapter 3 Review
----
+**Chapter 3 Review**
 
 1.  A *prompt* is a message or character that indicates to the user that they
     must enter some information.
