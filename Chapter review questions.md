@@ -1,16 +1,15 @@
----
-title: "PPP: Chapter Review Questions"
----
+PPP: Chapter Review Questions
+=============================
 
 Chapter 2 – Hello, World!
-=========================
+-------------------------
 
 1.  The purpose of the “Hello, World!” program is to introduce the key concepts
     of a new programming language (the tool) to any new programmer. This
     includes using an IDE, compiling, linking, and running the program.
 
 2.  There are four parts to a function: the return type (e.g. *int*); the
-    function name (e.g. *main()*); the parameters (e.g. **int argc**); and the
+    function name (e.g. **main()**); the parameters (e.g. **int argc**); and the
     body (e.g. **{cout \<\< “Hello, World!\\n”;}**)**.**
 
 3.  The **main()** function must appear in every C++ program.
@@ -41,7 +40,7 @@ Chapter 2 – Hello, World!
     activity and one can only improve from experience.
 
 Chapter 3 – Objects, Types, and Values
-======================================
+--------------------------------------
 
 1.  A *prompt* is a message or character that indicates to the user that they
     must enter some information.
@@ -141,4 +140,4 @@ Chapter 3 – Objects, Types, and Values
     bytes of memory than the rvalue.
 
 Chapter 4 - Computation
-=======================
+-----------------------
