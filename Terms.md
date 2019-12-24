@@ -1,4 +1,4 @@
-****Terms****
+%Terms
 
 
 | **Term**           | **Ch.** | **Definition**                                                                                                                                                                  |
