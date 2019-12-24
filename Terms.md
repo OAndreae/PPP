@@ -40,4 +40,5 @@ title: Terms
 | Type               | 3       | Defines a set of possible values and operations for an object                                                                                                                   |
 | Type safety        | 3       | Preventing against unsafe (narrowing) conversions                                                                                                                               |
 | Value              | 3       | A set of bits in memory interpreted according to its type                                                                                                                       |
-| Variable           | 3       | A named object                                                                                                                                                                  |
+| Variable           | 3       | A named object
+| Abstraction		 | 4	   | Hiding implementation details behind an inteface
